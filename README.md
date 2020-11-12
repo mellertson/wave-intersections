@@ -21,7 +21,7 @@ project's root directory with a filename like the following.
 
 Here are a few of my favorited images, which it generated.  
 
-This one shows a _V_ patter at the top and bottom, which looks like a pattern
+This one shows a **V** pattern at the top and bottom, which looks like a pattern
 I saw formed from very small waves while the wave was washing back out into
 the ocean a few weeks ago. Seeing those patterns in the ocean was part of the
 reason I wrote this code.  I was hoping to reproduce those same patters, which 
