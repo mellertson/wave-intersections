@@ -21,7 +21,7 @@ project's root directory with a filename like the following.
 
 Here are a few of my favorited images, which it generated.  
 
-This one shows a "V" patter at the top and bottom, which look like a pattern
+This one shows a "V" patter at the top and bottom, which looks like a pattern
 I saw formed from very small waves while the wave was washing back out into
 the ocean a few weeks ago. Seeing those patterns in the ocean was part of the
 reason I wrote this code.  I was hoping to reproduce those same patters, which 
@@ -29,7 +29,7 @@ I have done in this image.
 ![image](https://user-images.githubusercontent.com/1175253/98911171-09439980-2479-11eb-9bfd-80cbddadb4fd.png)
 
 This one just looks cool.  You can change the colors around if it is 
-difficult to look.
+difficult to look at.
 ![image](https://user-images.githubusercontent.com/1175253/98911758-fb424880-2479-11eb-9eb8-a26e264be63c.png)
 
 This one has some interesting looking color streaks, which seem to bend
